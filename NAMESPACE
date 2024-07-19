@@ -1,0 +1,4 @@
+export("GcE")
+importFrom("grDevices", "dev.off", "pdf")
+importFrom("graphics", "lines")
+importFrom("stats", "binomial", "glm", "rbinom", "rnorm")

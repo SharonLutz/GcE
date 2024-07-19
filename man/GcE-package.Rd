@@ -1,0 +1,10 @@
+\name{GcE-package}
+\alias{GcE-package}
+\alias{GcE-pkg}
+\docType{package}
+\title{
+\packageTitle{GcE}
+}
+\description{
+\packageDescription{GcE}
+}

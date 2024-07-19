@@ -1,0 +1,9 @@
+Package: GcE
+Type: Package
+Title: runs the GcE function
+Version: 1.0
+Date: 2024-07-19
+Author: Sharon Lutz
+Maintainer: Sharon Lutz <smlutz@hsph.harvard.edu>
+Description: Evaluate the gene by environment interaction with a binary outcome and a normally distributed environmental exposure.
+License: GPL-2
