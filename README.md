@@ -50,4 +50,4 @@ BetaI propSim
 <img src="GcE.png" width="500">
   
   ## Notes
-  Please note that this is an examination of the gene by environment interaction. The MAF, mean, variances, and &beta;s need to be chosen such that there is enough variability for the SNP, the environmental variable E, and the binary outcome Y.
+  Please note that this is an examination of the gene by environment interaction. The MAF, mean, variances, and &beta;'s need to be chosen such that there is enough variability for the SNP, the environmental variable E, and the binary outcome Y.
