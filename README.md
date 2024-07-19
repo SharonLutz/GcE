@@ -47,7 +47,7 @@ BetaI propSim
 [5,] -0.80 0.908
 [6,] -0.75 0.833
 ```
-<img src="GcE.pdf" width="500">
+<img src="GcE.png" width="500">
   
   ## Notes
   Please note that this is an examination of the gene by environment interaction. The MAF, mean, variances, and &beta;'s need to be chosen such that there is enough variability for the SNP, the environmental variable E, and the binary outcome Y.
