@@ -36,7 +36,7 @@ GcE(nCase=407,nControl=376,MAF=0.49,meanE=0,varE=0.99,beta0=-0.32,betaSNP=0.17,b
 ```
 
 ## Output
-For this example, we get the following matrix and corresponding plot which outputs the proportion of simulations where the p-value for the interaction term in a logistic regression is less than the user specified alpha level to detect the SNP by environment interaction on the binary outcome. We can see from the plot below that the proportion of simulations where H[0] rejected is higher in this scenario.
+For this example, we get the following matrix and corresponding plot which outputs the proportion of simulations where the p-value for the interaction term in a logistic regression is less than the user specified alpha level to detect the SNP by environment interaction on the binary outcome. We can see from the plot below that the proportion of simulations where H[0] rejected is high in this scenario.
 
 ```
 BetaI propSim
